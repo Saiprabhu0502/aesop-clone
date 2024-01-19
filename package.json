@@ -32,6 +32,9 @@
     "no-unused-vars": "warn"
   }
 },
+  "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^1.0.7"
+},
   "browserslist": {
     "production": [
       ">0.2%",
